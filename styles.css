@@ -4,7 +4,7 @@ body {
     margin: 40px;
 }
 h1 {
-    color: rgb(94, 150, 165);
+    color: #1b1919;
     text-align: center;
 }
 .projects {display: flex; flex-wrap: wrap;} /* Condensed to save space */
